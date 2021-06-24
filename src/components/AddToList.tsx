@@ -43,7 +43,6 @@ const AddToList: React.FC<IProps> = ({setPeople, people}) => {
                 }
             ])
 
-
     }
 
     return (
